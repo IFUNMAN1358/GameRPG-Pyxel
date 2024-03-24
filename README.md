@@ -1,5 +1,7 @@
 # Manual:
-Run file 'app' in directory game.
+1. Run next command in terminal:
+* pip install -r requirements.txt
+2. Run file 'app' in directory game.
 
 ---
 
